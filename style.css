@@ -1,11 +1,12 @@
-body{
-  font-family: Arial;
+.hero{
+  background: linear-gradient(to right, #000428, #004e92);
+  padding: 80px 20px;
 }
 
-h1{
-  color: darkblue;
+.hero h1{
+  font-size: 40px;
 }
 
-p{
-  font-size: 20px;
+.card{
+  text-align: center;
 }
